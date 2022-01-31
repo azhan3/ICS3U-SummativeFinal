@@ -1,1 +1,1 @@
-apiURI = "mongodb://127.0.0.1:27017"#"mongodb+srv://ALEX:rtXreOIhLVzGWIqz@cluster0.mb4wu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+apiURI = "mongodb://127.0.0.1:27017"
