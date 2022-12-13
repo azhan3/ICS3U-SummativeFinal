@@ -22,5 +22,7 @@ This project is create with the following libraries:
 ## Features
 The app contains the following features:
 * Hand tracking and landmarking using OpenCV and Mediapipe
+* Clicks, mouse movement, volume control, alt-tabbing 
 * Gesture recognition using a Sklearn K-Nearest-Neighbors classifier and a .csv file with training data
-* Gesture to action mapping and storage for different user accounts uysing MongoDB
+* Gesture to action mapping and storage for different user accounts using MongoDB
+
